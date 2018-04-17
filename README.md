@@ -12,5 +12,5 @@ MIT
 (The metadata above is needed for package search.)
 
 ```package
-APA102=github.com/MyMX1213/pxt-APA102
+APA102=github.com/waveshare/pxt-APA102
 ```
